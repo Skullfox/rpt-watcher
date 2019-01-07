@@ -1,0 +1,12 @@
+{
+  "name": "rpt-watcher",
+  "version": "1.0.0",
+  "description": "Watches rpt changes",
+  "main": "rpt-watcher.js",
+  "author": "Skullfox | Phil",
+  "license": "GNU General Public License v3.0",
+  "dependencies": {
+    "glob": "^7.1.3",
+    "read-last-lines": "^1.6.0"
+  }
+}
